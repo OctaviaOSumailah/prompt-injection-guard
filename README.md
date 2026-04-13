@@ -1,4 +1,7 @@
 # 🔐 Prompt Injection Guard
+## 💡 Research Motivation
+
+This project is part of my exploration into AI system security, particularly how LLMs behave in adversarial environments.
 
 A lightweight security layer for detecting and mitigating prompt injection attacks in Large Language Model (LLM) applications.
 
